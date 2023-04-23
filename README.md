@@ -31,7 +31,7 @@ author: @0xwaya
 
     ```
     for more info visit:
-    
+
     createweb3dapp.alchemy.com
 
     ```
