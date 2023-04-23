@@ -1,3 +1,3 @@
 # web3-4dummies
 
-a quick clone and installation of a web3 dapp powered by Alchemy
+a quick clone and installation guide using create-web3-dapp  by Alchemy
