@@ -54,7 +54,7 @@ export default function InstructionsComponent() {
 				<div className={styles.icons_container}>
 					<div>
 						<a
-							href="https://github.com/0xWaya/s2-docs"
+							href="https://github.com/0xwaya/web3-4dummies"
 							target={"_blank"}
 						>
 							Leave a star on Github
