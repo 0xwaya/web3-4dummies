@@ -26,7 +26,7 @@ export default function InstructionsComponent() {
 				</a>
 				<a
 					target={"_blank"}
-					href={"./"}
+					href={"https://github.com/0xwaya/web3-4dummies"}
 				>
 					<div className={styles.button}>
 					<p>clone</p>
