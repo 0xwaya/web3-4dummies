@@ -1,6 +1,9 @@
+author: @0xwaya
 # web3-4dummies
 
-## easy installation guide using create-web3-dapp  by Alchemy
+
+### installation guide to clone and install  create-web3-dapp 
+###### powered by Alchemy
 </br>
 
 * step 1
@@ -27,7 +30,10 @@
     - you are now ready connect your web3 dev wallet to your dapp and edit away!
 
     ```
-    visit createweb3dapp.alchemy.com for more
+    for more info visit:
+    
+    createweb3dapp.alchemy.com
+
     ```
 
 
