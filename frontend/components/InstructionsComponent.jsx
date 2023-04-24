@@ -21,7 +21,7 @@ export default function InstructionsComponent() {
 					href={"https://web3docs.vercel.app"}
 				>
 					<div className={styles.button}>
-						<p>docs</p>
+						<p>documentation</p>
 					</div>
 				</a>
 				<a
@@ -29,7 +29,7 @@ export default function InstructionsComponent() {
 					href={"https://github.com/0xwaya/web3-4dummies"}
 				>
 					<div className={styles.button}>
-					<p>clone</p>
+					<p>repository</p>
 					</div>
 				</a>
 				<a

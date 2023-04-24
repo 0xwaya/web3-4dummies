@@ -21,9 +21,9 @@ author: @0xwaya
     ``` 
     cd web3-4dummies/frontend
 
-   npm install
+    npm install
 
-   npm run dev
+    npm run dev
    ```
 
 * step 3
