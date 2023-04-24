@@ -69,6 +69,7 @@ border-radius: 8px;
 
 	padding: 24px 32px;
 	gap: 12px;
+	border-radius: 13px;
 	width: 392px;
 	height: 76px;
 
@@ -86,7 +87,7 @@ cursor: pointer;
 .button p {
 
 font-style: normal;
-font-weight: 800;
+font-weight: 700;
 font-size: 20px;
 line-height: 28px;
 }
