@@ -18,7 +18,7 @@ export default function InstructionsComponent() {
 			<div className={styles.buttons_container}>
 				<a
 					target={"_blank"}
-					href={"https://s2-docs.vercel.app"}
+					href={"https://web3docs.vercel.app"}
 				>
 					<div className={styles.button}>
 						<p>docs</p>
