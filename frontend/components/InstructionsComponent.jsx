@@ -12,24 +12,41 @@ export default function InstructionsComponent() {
 				<p>
 					to edit go to {" "}
 					<span>/InstructionsComponent.jsx</span>
+				</p><br></br>
+		<div className={styles.buttons_container}>
+			<p>
+				<b>web3 4dummies</b>: 
+				 a guide for building web3 dapps with Next.js and Alchemy.
+				 <br></br>	<br></br>	
+				2 options to get started:
+				<br></br>
+				<br></br>
+				<li><span>Clone this dapp</span> button, follow instructions in the
+				<span>README.md</span> file</li>
+				
+				or
+				<br></br>
+			
+				<li>Create a new dapp from scratch with the <span>Installation guide</span>button
+				</li>
 				</p>
+		</div>
 			</header>
 
 			<div className={styles.buttons_container}>
 				<a
 					target={"_blank"}
-					href={"https://web3docs.vercel.app"}
-				>
-					<div className={styles.button}>
-						<p>documentation</p>
-					</div>
-				</a>
-				<a
-					target={"_blank"}
 					href={"https://github.com/0xwaya/web3-4dummies"}
 				>
 					<div className={styles.button}>
-					<p>repository</p>
+					<p>Clone this dapp</p>
+					</div>
+				</a><a
+					target={"_blank"}
+					href={"https://web3docs.vercel.app"}
+				>
+					<div className={styles.button}>
+						<p>Installation guide</p>
 					</div>
 				</a>
 				<a
@@ -37,7 +54,7 @@ export default function InstructionsComponent() {
 					href={"./sales"}
 				>
 					<div className={styles.button}>
-						<p>nft sales sample </p>
+						<p>NFT sales component </p>
 					</div>
 				</a>
 			</div>
