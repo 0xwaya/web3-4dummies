@@ -4,7 +4,7 @@ export default function Navbar() {
 	return (
 		<nav className={styles.navbar}>
 			<a href="./" target={"_blank"}>
-				<img className={styles.alchemy_logo} src="/cw3d-logo.png"></img>
+				<img className={styles.alchemy_logo} src="/dummy.png"></img>
 			</a>
 			<ConnectButton></ConnectButton>
 		</nav>
