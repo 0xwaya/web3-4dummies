@@ -26,7 +26,7 @@ export default function InstructionsComponent() {
 			
 				<br></br>
 			
-				<li>Create a new dapp from scratch with the <span>Installation guide</span>button
+				<li>Create a new dapp from scratch with<span>Installation guide</span>button
 				</li>
 				</p>
 		</div>
