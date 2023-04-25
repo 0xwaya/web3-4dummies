@@ -23,8 +23,7 @@ export default function InstructionsComponent() {
 				<br></br>
 				<li><span>Clone this dapp</span> button, follow instructions in the
 				<span>README.md</span> file</li>
-				
-				or
+			
 				<br></br>
 			
 				<li>Create a new dapp from scratch with the <span>Installation guide</span>button
