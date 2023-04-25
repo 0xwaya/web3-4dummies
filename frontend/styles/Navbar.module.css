@@ -4,10 +4,10 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-
-	width: 100%;
-	padding: 2rem 4rem 0.8rem 4rem;
-	gap: 4rem;
+	width: 90%;
+	padding: 1rem;
+	gap: 2rem;
+	margin: 0 auto;
 	margin-bottom: 3rem;
 	background-color: #000000;
 	box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -21,5 +21,5 @@
 	width: 4rem;
 	height: 4rem;
 	cursor: pointer;
-	
+
 }

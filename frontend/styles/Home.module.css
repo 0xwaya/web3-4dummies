@@ -4,6 +4,7 @@
 	padding: 2rem 0;
 	flex: 1;
 	display: flex;
+	mergin: 0 auto;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
