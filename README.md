@@ -7,7 +7,7 @@ author: @0xwaya
 </br>
 
 * step 1
-    - in your terminal open ```cd``` , or create ```mkdir "...DirName"```, then clone repo:
+    - in your terminal open ```cd``` , or create ```mkdir "...FolderName"```, then clone repo:
     ```
     gh repo clone 0xwaya/web3-4dummies
     ```
