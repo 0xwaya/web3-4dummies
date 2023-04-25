@@ -6,7 +6,7 @@ body {
 	flex-direction: column;
 	height: 100%;
 	width: 100%;
-	background: linear-gradient(-240deg, #000000 38%, #FAFAFA 120%);
+	background: linear-gradient(180deg, #000000 61%, #FAFAFA 142%);
 	font-family: 'Rubik';
 	font-weight: normal;
 }

@@ -1,6 +1,7 @@
 .container{
 	color: white;
 	display: flex;
+	flex-direction: column;
 	align-items: center;
 	height: 60vh;
 	width: 100%;
@@ -22,7 +23,7 @@
 
 
 .header_container h1 span{
-	background: linear-gradient(140deg, rgba(54,190,255,1) 0%, rgba(115,63,241,1) 100%);
+	background: linear-gradient(180deg, rgba(54,190,255,1) 0%, rgba(115,63,241,1) 100%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	background-clip: text;
